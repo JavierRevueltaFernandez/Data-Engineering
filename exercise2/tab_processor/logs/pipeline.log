@@ -1,0 +1,20 @@
+2025-11-22 01:38:51 INFO     PIPELINE --------------------------------------------------
+2025-11-22 01:38:51 INFO     PIPELINE STARTING DATA ENGINEERING PIPELINE
+2025-11-22 01:38:51 INFO     PIPELINE Start Time: 2025-11-22 01:38:51.776746
+2025-11-22 01:38:51 INFO     PIPELINE --------------------------------------------------
+2025-11-22 01:38:51 INFO     PIPELINE 🚀 Running Step: SCRAPPER | Command: python scrapper/main.py -sc a -ec a
+2025-11-22 01:41:34 INFO     PIPELINE ✅ Step Succeeded: SCRAPPER
+2025-11-22 01:41:34 INFO     PIPELINE 🚀 Running Step: CLEANER | Command: python tab_cleaner/main.py
+2025-11-22 01:41:36 INFO     PIPELINE ✅ Step Succeeded: CLEANER
+2025-11-22 01:41:36 INFO     PIPELINE 🚀 Running Step: VALIDATOR | Command: python tab_validator/main.py
+2025-11-22 01:41:37 INFO     PIPELINE ✅ Step Succeeded: VALIDATOR
+2025-11-22 01:41:37 INFO     PIPELINE 🚀 Running Step: RESULTS | Command: python results/main.py
+2025-11-22 01:41:37 INFO     PIPELINE ✅ Step Succeeded: RESULTS
+2025-11-22 01:41:37 INFO     PIPELINE 🚀 Running Step: LYRICS EXTRACTOR | Command: python lyrics/main.py
+2025-11-22 01:41:37 INFO     PIPELINE ✅ Step Succeeded: LYRICS EXTRACTOR
+2025-11-22 01:41:37 INFO     PIPELINE 🚀 Running Step: INSIGHTS ANALYZER | Command: python insights/main.py
+2025-11-22 01:41:43 INFO     PIPELINE ✅ Step Succeeded: INSIGHTS ANALYZER
+2025-11-22 01:41:43 INFO     PIPELINE --------------------------------------------------
+2025-11-22 01:41:43 INFO     PIPELINE PIPELINE COMPLETED SUCCESSFULLY!
+2025-11-22 01:41:43 INFO     PIPELINE Total Duration: 0:02:51.228804
+2025-11-22 01:41:43 INFO     PIPELINE --------------------------------------------------

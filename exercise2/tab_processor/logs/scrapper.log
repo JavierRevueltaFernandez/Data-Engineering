@@ -1,0 +1,199 @@
+2025-11-22 01:38:52 INFO     Scrapper started at 2025-11-22 01:38:52.538569
+2025-11-22 01:38:52 INFO     Starting to download lyrics using existing catalog...
+2025-11-22 01:38:52 INFO     Attempting to load catalog from: files\catalog.json
+2025-11-22 01:38:52 INFO     Processing artist: Abel Pintos
+2025-11-22 01:38:52 INFO     song --> La Llave - url --> https://acordes.lacuerda.net/abel_pintos/la_llave.shtml
+2025-11-22 01:38:53 INFO     song --> Sin Principio Ni Final - url --> https://acordes.lacuerda.net/abel_pintos/sin_principio_ni_final.shtml
+2025-11-22 01:38:54 INFO     song --> No Me Olvides - url --> https://acordes.lacuerda.net/abel_pintos/no_me_olvides.shtml
+2025-11-22 01:38:55 INFO     song --> Bailando Con Tu Sombra - url --> https://acordes.lacuerda.net/abel_pintos/bailando_con_tu_sombra.shtml
+2025-11-22 01:38:56 INFO     song --> Once Mil - url --> https://acordes.lacuerda.net/abel_pintos/once_mil.shtml
+2025-11-22 01:38:57 INFO     song --> Motivos - url --> https://acordes.lacuerda.net/abel_pintos/motivos.shtml
+2025-11-22 01:38:58 INFO     song --> Bailando Con Tu Sombra Aleli - url --> https://acordes.lacuerda.net/abel_pintos/bailando_con_tu_sombra_aleli.shtml
+2025-11-22 01:38:59 INFO     song --> El Adivino - url --> https://acordes.lacuerda.net/abel_pintos/el_adivino.shtml
+2025-11-22 01:39:00 INFO     song --> Como Te Extranio - url --> https://acordes.lacuerda.net/abel_pintos/como_te_extranio.shtml
+2025-11-22 01:39:01 INFO     song --> Tanto Amor - url --> https://acordes.lacuerda.net/abel_pintos/tanto_amor.shtml
+2025-11-22 01:39:02 INFO     song --> 3 - url --> https://acordes.lacuerda.net/abel_pintos/3.shtml
+2025-11-22 01:39:03 INFO     song --> 5 Siglos Igual - url --> https://acordes.lacuerda.net/abel_pintos/5_siglos_igual.shtml
+2025-11-22 01:39:04 INFO     song --> A Veces Pasa - url --> https://acordes.lacuerda.net/abel_pintos/a_veces_pasa.shtml
+2025-11-22 01:39:05 INFO     song --> Adios - url --> https://acordes.lacuerda.net/abel_pintos/adios.shtml
+2025-11-22 01:39:06 INFO     song --> Abismo - url --> https://acordes.lacuerda.net/abel_pintos/abismo.shtml
+2025-11-22 01:39:06 INFO     File files\songs\abel_pintos\adios.txt already exists. Skipping download.
+2025-11-22 01:39:06 INFO     song --> Alguien - url --> https://acordes.lacuerda.net/abel_pintos/alguien.shtml
+2025-11-22 01:39:07 INFO     song --> Alguna Vez - url --> https://acordes.lacuerda.net/abel_pintos/alguna_vez.shtml
+2025-11-22 01:39:08 INFO     song --> Amame - url --> https://acordes.lacuerda.net/abel_pintos/amame.shtml
+2025-11-22 01:39:09 INFO     song --> Anclada En Mis Suenios - url --> https://acordes.lacuerda.net/abel_pintos/anclada_en_mis_suenios.shtml
+2025-11-22 01:39:10 INFO     song --> Aqui - url --> https://acordes.lacuerda.net/abel_pintos/aqui.shtml
+2025-11-22 01:39:11 INFO     song --> Aqui Te Espero - url --> https://acordes.lacuerda.net/abel_pintos/aqui_te_espero.shtml
+2025-11-22 01:39:12 INFO     song --> Arder En Libertad - url --> https://acordes.lacuerda.net/abel_pintos/arder_en_libertad.shtml
+2025-11-22 01:39:13 INFO     song --> Asuntos Pendientes - url --> https://acordes.lacuerda.net/abel_pintos/asuntos_pendientes.shtml
+2025-11-22 01:39:14 INFO     song --> Aventura - url --> https://acordes.lacuerda.net/abel_pintos/aventura.shtml
+2025-11-22 01:39:15 INFO     File files\songs\abel_pintos\bailando_con_tu_sombra.txt already exists. Skipping download.
+2025-11-22 01:39:15 INFO     File files\songs\abel_pintos\bailando_con_tu_sombra_aleli.txt already exists. Skipping download.
+2025-11-22 01:39:15 INFO     song --> Bella Flor - url --> https://acordes.lacuerda.net/abel_pintos/bella_flor.shtml
+2025-11-22 01:39:16 INFO     song --> Bonus Track - url --> https://acordes.lacuerda.net/abel_pintos/bonus_track.shtml
+2025-11-22 01:39:17 INFO     song --> Botellas Al Mar - url --> https://acordes.lacuerda.net/abel_pintos/botellas_al_mar.shtml
+2025-11-22 01:39:18 INFO     song --> Buenos Amores - url --> https://acordes.lacuerda.net/abel_pintos/buenos_amores.shtml
+2025-11-22 01:39:19 INFO     song --> Caceria - url --> https://acordes.lacuerda.net/abel_pintos/caceria.shtml
+2025-11-22 01:39:20 INFO     song --> Cactus - url --> https://acordes.lacuerda.net/abel_pintos/cactus.shtml
+2025-11-22 01:39:21 INFO     song --> Cada Segundo Sin Vos - url --> https://acordes.lacuerda.net/abel_pintos/cada_segundo_sin_vos.shtml
+2025-11-22 01:39:21 INFO     song --> Cancion Que Acuna - url --> https://acordes.lacuerda.net/abel_pintos/cancion_que_acuna.shtml
+2025-11-22 01:39:22 INFO     song --> Canta - url --> https://acordes.lacuerda.net/abel_pintos/canta.shtml
+2025-11-22 01:39:23 INFO     song --> Carta Urgente - url --> https://acordes.lacuerda.net/abel_pintos/carta_urgente.shtml
+2025-11-22 01:39:24 INFO     song --> Cerca Del Mar - url --> https://acordes.lacuerda.net/abel_pintos/cerca_del_mar.shtml
+2025-11-22 01:39:25 INFO     song --> Cien Anios - url --> https://acordes.lacuerda.net/abel_pintos/cien_anios.shtml
+2025-11-22 01:39:26 INFO     File files\songs\abel_pintos\como_te_extranio.txt already exists. Skipping download.
+2025-11-22 01:39:26 INFO     song --> Corazon Ambriento - url --> https://acordes.lacuerda.net/abel_pintos/corazon_ambriento.shtml
+2025-11-22 01:39:27 INFO     song --> Cronica - url --> https://acordes.lacuerda.net/abel_pintos/cronica.shtml
+2025-11-22 01:39:28 INFO     song --> Cuando Llegue El Alba - url --> https://acordes.lacuerda.net/abel_pintos/cuando_llegue_el_alba.shtml
+2025-11-22 01:39:29 INFO     song --> Cuantas Veces - url --> https://acordes.lacuerda.net/abel_pintos/cuantas_veces.shtml
+2025-11-22 01:39:30 INFO     song --> De Amor Y De Guerra - url --> https://acordes.lacuerda.net/abel_pintos/de_amor_y_de_guerra.shtml
+2025-11-22 01:39:31 INFO     song --> De Solo Vivir - url --> https://acordes.lacuerda.net/abel_pintos/de_solo_vivir.shtml
+2025-11-22 01:39:32 INFO     song --> Disparos - url --> https://acordes.lacuerda.net/abel_pintos/disparos.shtml
+2025-11-22 01:39:33 INFO     song --> Duenios Del Amor - url --> https://acordes.lacuerda.net/abel_pintos/duenios_del_amor.shtml
+2025-11-22 01:39:34 INFO     File files\songs\abel_pintos\el_adivino.txt already exists. Skipping download.
+2025-11-22 01:39:34 INFO     song --> El Alcatraz - url --> https://acordes.lacuerda.net/abel_pintos/el_alcatraz.shtml
+2025-11-22 01:39:35 INFO     song --> El Amor En Mi Vida - url --> https://acordes.lacuerda.net/abel_pintos/el_amor_en_mi_vida.shtml
+2025-11-22 01:39:36 INFO     song --> El Antigal - url --> https://acordes.lacuerda.net/abel_pintos/el_antigal.shtml
+2025-11-22 01:39:37 INFO     song --> El Beso - url --> https://acordes.lacuerda.net/abel_pintos/el_beso.shtml
+2025-11-22 01:39:38 INFO     song --> El Dominguero - url --> https://acordes.lacuerda.net/abel_pintos/el_dominguero.shtml
+2025-11-22 01:39:38 INFO     song --> El Hechizo - url --> https://acordes.lacuerda.net/abel_pintos/el_hechizo.shtml
+2025-11-22 01:39:39 INFO     song --> El Mar - url --> https://acordes.lacuerda.net/abel_pintos/el_mar.shtml
+2025-11-22 01:39:40 INFO     song --> El Rio Va - url --> https://acordes.lacuerda.net/abel_pintos/el_rio_va.shtml
+2025-11-22 01:39:41 INFO     song --> El Sabor Del Mar - url --> https://acordes.lacuerda.net/abel_pintos/el_sabor_del_mar.shtml
+2025-11-22 01:39:42 INFO     song --> Es La Duenia - url --> https://acordes.lacuerda.net/abel_pintos/es_la_duenia.shtml
+2025-11-22 01:39:43 INFO     song --> Espiritu - url --> https://acordes.lacuerda.net/abel_pintos/espiritu.shtml
+2025-11-22 01:39:44 INFO     song --> Eternidad - url --> https://acordes.lacuerda.net/abel_pintos/eternidad.shtml
+2025-11-22 01:39:45 INFO     song --> Filosofia Viajera - url --> https://acordes.lacuerda.net/abel_pintos/filosofia_viajera.shtml
+2025-11-22 01:39:46 INFO     song --> Flores En El Rio - url --> https://acordes.lacuerda.net/abel_pintos/flores_en_el_rio.shtml
+2025-11-22 01:39:47 INFO     song --> Hasta Aqui - url --> https://acordes.lacuerda.net/abel_pintos/hasta_aqui.shtml
+2025-11-22 01:39:48 INFO     song --> Huracan - url --> https://acordes.lacuerda.net/abel_pintos/huracan.shtml
+2025-11-22 01:39:49 INFO     song --> Incomparable - url --> https://acordes.lacuerda.net/abel_pintos/incomparable.shtml
+2025-11-22 01:39:50 INFO     song --> Juntos - url --> https://acordes.lacuerda.net/abel_pintos/juntos.shtml
+2025-11-22 01:39:51 INFO     song --> La Filosofica - url --> https://acordes.lacuerda.net/abel_pintos/la_filosofica.shtml
+2025-11-22 01:39:51 INFO     File files\songs\abel_pintos\la_llave.txt already exists. Skipping download.
+2025-11-22 01:39:51 INFO     song --> La Sapachera - url --> https://acordes.lacuerda.net/abel_pintos/la_sapachera.shtml
+2025-11-22 01:39:52 INFO     song --> La Tucumanita - url --> https://acordes.lacuerda.net/abel_pintos/la_tucumanita.shtml
+2025-11-22 01:39:53 INFO     song --> La Voz Del Olvido - url --> https://acordes.lacuerda.net/abel_pintos/la_voz_del_olvido.shtml
+2025-11-22 01:39:54 INFO     song --> Latidos - url --> https://acordes.lacuerda.net/abel_pintos/latidos.shtml
+2025-11-22 01:39:55 INFO     song --> Libertad - url --> https://acordes.lacuerda.net/abel_pintos/libertad.shtml
+2025-11-22 01:39:56 INFO     song --> Lo Que Soy - url --> https://acordes.lacuerda.net/abel_pintos/lo_que_soy.shtml
+2025-11-22 01:39:57 INFO     song --> Lucero - url --> https://acordes.lacuerda.net/abel_pintos/lucero.shtml
+2025-11-22 01:39:58 INFO     song --> Luna Llena - url --> https://acordes.lacuerda.net/abel_pintos/luna_llena.shtml
+2025-11-22 01:39:59 INFO     song --> Mariposa - url --> https://acordes.lacuerda.net/abel_pintos/mariposa.shtml
+2025-11-22 01:40:00 INFO     song --> Mas Que Mi Destino - url --> https://acordes.lacuerda.net/abel_pintos/mas_que_mi_destino.shtml
+2025-11-22 01:40:01 INFO     song --> Mi Angel - url --> https://acordes.lacuerda.net/abel_pintos/mi_angel.shtml
+2025-11-22 01:40:02 INFO     song --> Mi Error - url --> https://acordes.lacuerda.net/abel_pintos/mi_error.shtml
+2025-11-22 01:40:03 INFO     song --> Mi Pueblo Azul - url --> https://acordes.lacuerda.net/abel_pintos/mi_pueblo_azul.shtml
+2025-11-22 01:40:03 INFO     song --> Milagro En Cruz - url --> https://acordes.lacuerda.net/abel_pintos/milagro_en_cruz.shtml
+2025-11-22 01:40:04 INFO     File files\songs\abel_pintos\motivos.txt already exists. Skipping download.
+2025-11-22 01:40:04 INFO     File files\songs\abel_pintos\no_me_olvides.txt already exists. Skipping download.
+2025-11-22 01:40:04 INFO     song --> No Pares - url --> https://acordes.lacuerda.net/abel_pintos/no_pares.shtml
+2025-11-22 01:40:05 INFO     song --> Ofrezco - url --> https://acordes.lacuerda.net/abel_pintos/ofrezco.shtml
+2025-11-22 01:40:06 INFO     song --> Ojos De Cielo - url --> https://acordes.lacuerda.net/abel_pintos/ojos_de_cielo.shtml
+2025-11-22 01:40:07 INFO     File files\songs\abel_pintos\once_mil.txt already exists. Skipping download.
+2025-11-22 01:40:07 INFO     song --> Pajaro Cantor - url --> https://acordes.lacuerda.net/abel_pintos/pajaro_cantor.shtml
+2025-11-22 01:40:08 INFO     song --> Para Cantar He Nacido - url --> https://acordes.lacuerda.net/abel_pintos/para_cantar_he_nacido.shtml
+2025-11-22 01:40:09 INFO     song --> Para Cobrar Altura - url --> https://acordes.lacuerda.net/abel_pintos/para_cobrar_altura.shtml
+2025-11-22 01:40:10 INFO     song --> Para Saber - url --> https://acordes.lacuerda.net/abel_pintos/para_saber.shtml
+2025-11-22 01:40:11 INFO     song --> Payada - url --> https://acordes.lacuerda.net/abel_pintos/payada.shtml
+2025-11-22 01:40:12 INFO     song --> Peregrinos - url --> https://acordes.lacuerda.net/abel_pintos/peregrinos.shtml
+2025-11-22 01:40:13 INFO     song --> Piedra Libre - url --> https://acordes.lacuerda.net/abel_pintos/piedra_libre.shtml
+2025-11-22 01:40:14 INFO     song --> Poniente De Soles - url --> https://acordes.lacuerda.net/abel_pintos/poniente_de_soles.shtml
+2025-11-22 01:40:15 INFO     song --> Por Ella La Mas Bella - url --> https://acordes.lacuerda.net/abel_pintos/por_ella_la_mas_bella.shtml
+2025-11-22 01:40:16 INFO     song --> Por Ellas Por Las Mas Bellas - url --> https://acordes.lacuerda.net/abel_pintos/por_ellas_por_las_mas_bellas.shtml
+2025-11-22 01:40:17 INFO     song --> Por Una Gota - url --> https://acordes.lacuerda.net/abel_pintos/por_una_gota.shtml
+2025-11-22 01:40:18 INFO     song --> Primavera - url --> https://acordes.lacuerda.net/abel_pintos/primavera.shtml
+2025-11-22 01:40:19 INFO     song --> Que Te Vaya Bien - url --> https://acordes.lacuerda.net/abel_pintos/que_te_vaya_bien.shtml
+2025-11-22 01:40:19 INFO     song --> Que Viva La Chacarera - url --> https://acordes.lacuerda.net/abel_pintos/que_viva_la_chacarera.shtml
+2025-11-22 01:40:20 INFO     song --> Quien Pudiera - url --> https://acordes.lacuerda.net/abel_pintos/quien_pudiera.shtml
+2025-11-22 01:40:21 INFO     song --> Quiero Cantar - url --> https://acordes.lacuerda.net/abel_pintos/quiero_cantar.shtml
+2025-11-22 01:40:22 INFO     song --> Quisiera - url --> https://acordes.lacuerda.net/abel_pintos/quisiera.shtml
+2025-11-22 01:40:23 INFO     song --> Reevolucion - url --> https://acordes.lacuerda.net/abel_pintos/reevolucion.shtml
+2025-11-22 01:40:24 INFO     song --> Reflejo Real - url --> https://acordes.lacuerda.net/abel_pintos/reflejo_real.shtml
+2025-11-22 01:40:25 INFO     song --> Revolucion - url --> https://acordes.lacuerda.net/abel_pintos/revolucion.shtml
+2025-11-22 01:40:26 INFO     song --> Simple Cancion - url --> https://acordes.lacuerda.net/abel_pintos/simple_cancion.shtml
+2025-11-22 01:40:27 INFO     File files\songs\abel_pintos\sin_principio_ni_final.txt already exists. Skipping download.
+2025-11-22 01:40:27 INFO     song --> Soledad - url --> https://acordes.lacuerda.net/abel_pintos/soledad.shtml
+2025-11-22 01:40:28 INFO     song --> Solo - url --> https://acordes.lacuerda.net/abel_pintos/solo.shtml
+2025-11-22 01:40:29 INFO     song --> Solo Canto Por Vos - url --> https://acordes.lacuerda.net/abel_pintos/solo_canto_por_vos.shtml
+2025-11-22 01:40:30 INFO     song --> Solo Soy Una Cancion - url --> https://acordes.lacuerda.net/abel_pintos/solo_soy_una_cancion.shtml
+2025-11-22 01:40:31 INFO     song --> Somos Uno - url --> https://acordes.lacuerda.net/abel_pintos/somos_uno.shtml
+2025-11-22 01:40:32 INFO     song --> Stephanie - url --> https://acordes.lacuerda.net/abel_pintos/stephanie.shtml
+2025-11-22 01:40:33 INFO     song --> Suenio Dorado - url --> https://acordes.lacuerda.net/abel_pintos/suenio_dorado.shtml
+2025-11-22 01:40:34 INFO     File files\songs\abel_pintos\tanto_amor.txt already exists. Skipping download.
+2025-11-22 01:40:34 INFO     song --> Te Amo - url --> https://acordes.lacuerda.net/abel_pintos/te_amo.shtml
+2025-11-22 01:40:35 INFO     song --> Te Extranio - url --> https://acordes.lacuerda.net/abel_pintos/te_extranio.shtml
+2025-11-22 01:40:36 INFO     song --> Tiempo - url --> https://acordes.lacuerda.net/abel_pintos/tiempo.shtml
+2025-11-22 01:40:37 INFO     song --> Todo Y Lo Que No Tengo - url --> https://acordes.lacuerda.net/abel_pintos/todo_y_lo_que_no_tengo.shtml
+2025-11-22 01:40:37 INFO     song --> Todo Esta En Vos - url --> https://acordes.lacuerda.net/abel_pintos/todo_esta_en_vos.shtml
+2025-11-22 01:40:38 INFO     song --> Todos Iguales - url --> https://acordes.lacuerda.net/abel_pintos/todos_iguales.shtml
+2025-11-22 01:40:39 INFO     song --> Todos Los Dias Un Poco - url --> https://acordes.lacuerda.net/abel_pintos/todos_los_dias_un_poco.shtml
+2025-11-22 01:40:40 INFO     song --> Tonada De Un Viejo Amor - url --> https://acordes.lacuerda.net/abel_pintos/tonada_de_un_viejo_amor.shtml
+2025-11-22 01:40:41 INFO     song --> Tu Voz - url --> https://acordes.lacuerda.net/abel_pintos/tu_voz.shtml
+2025-11-22 01:40:42 INFO     song --> Un Soplo De Amor - url --> https://acordes.lacuerda.net/abel_pintos/un_soplo_de_amor.shtml
+2025-11-22 01:40:43 INFO     song --> Una Flor Y Una Cruz - url --> https://acordes.lacuerda.net/abel_pintos/una_flor_y_una_cruz.shtml
+2025-11-22 01:40:44 INFO     song --> Una Razon - url --> https://acordes.lacuerda.net/abel_pintos/una_razon.shtml
+2025-11-22 01:40:45 INFO     song --> Ya Estuve Aqui - url --> https://acordes.lacuerda.net/abel_pintos/ya_estuve_aqui.shtml
+2025-11-22 01:40:46 INFO     song --> Zamba Para Olvidar - url --> https://acordes.lacuerda.net/abel_pintos/zamba_para_olvidar.shtml
+2025-11-22 01:40:47 INFO     song --> Zamba Por Vos - url --> https://acordes.lacuerda.net/abel_pintos/zamba_por_vos.shtml
+2025-11-22 01:40:48 INFO     Processing artist: Abel Zavala
+2025-11-22 01:40:48 INFO     song --> Enamorame - url --> https://acordes.lacuerda.net/abel_zavala/enamorame.shtml
+2025-11-22 01:40:49 INFO     song --> Jesus Mi Fiel Amigo - url --> https://acordes.lacuerda.net/abel_zavala/jesus_mi_fiel_amigo.shtml
+2025-11-22 01:40:50 INFO     song --> De Tal Manera - url --> https://acordes.lacuerda.net/abel_zavala/de_tal_manera.shtml
+2025-11-22 01:40:51 INFO     song --> Te Pertenezco - url --> https://acordes.lacuerda.net/abel_zavala/te_pertenezco.shtml
+2025-11-22 01:40:52 INFO     song --> El Padre Que Siempre Sonie - url --> https://acordes.lacuerda.net/abel_zavala/el_padre_que_siempre_sonie.shtml
+2025-11-22 01:40:53 INFO     song --> Lo Unico Que Quiero - url --> https://acordes.lacuerda.net/abel_zavala/lo_unico_que_quiero.shtml
+2025-11-22 01:40:54 INFO     song --> A Ti Sea La Gloria - url --> https://acordes.lacuerda.net/abel_zavala/a_ti_sea_la_gloria.shtml
+2025-11-22 01:40:55 INFO     song --> Palabras De Verdad - url --> https://acordes.lacuerda.net/abel_zavala/palabras_de_verdad.shtml
+2025-11-22 01:40:56 INFO     song --> Quiero Decirle Al Mundo - url --> https://acordes.lacuerda.net/abel_zavala/quiero_decirle_al_mundo.shtml
+2025-11-22 01:40:57 INFO     song --> Inmerecedor - url --> https://acordes.lacuerda.net/abel_zavala/inmerecedor.shtml
+2025-11-22 01:40:58 INFO     File files\songs\abel_zavala\a_ti_sea_la_gloria.txt already exists. Skipping download.
+2025-11-22 01:40:58 INFO     song --> Abre Mis Ojos Oh Cristo - url --> https://acordes.lacuerda.net/abel_zavala/abre_mis_ojos_oh_cristo.shtml
+2025-11-22 01:40:58 INFO     song --> Al Estar Ante Ti - url --> https://acordes.lacuerda.net/abel_zavala/al_estar_ante_ti.shtml
+2025-11-22 01:40:59 INFO     song --> Al Unico Y Sabio Dios - url --> https://acordes.lacuerda.net/abel_zavala/al_unico_y_sabio_dios.shtml
+2025-11-22 01:41:00 INFO     song --> Alaben Su Nombre - url --> https://acordes.lacuerda.net/abel_zavala/alaben_su_nombre.shtml
+2025-11-22 01:41:01 INFO     song --> Amarte Siempre - url --> https://acordes.lacuerda.net/abel_zavala/amarte_siempre.shtml
+2025-11-22 01:41:02 INFO     song --> Ante El Senior - url --> https://acordes.lacuerda.net/abel_zavala/ante_el_senior.shtml
+2025-11-22 01:41:03 INFO     song --> Cristo Te Amo - url --> https://acordes.lacuerda.net/abel_zavala/cristo_te_amo.shtml
+2025-11-22 01:41:04 INFO     File files\songs\abel_zavala\de_tal_manera.txt already exists. Skipping download.
+2025-11-22 01:41:04 INFO     song --> Dejando Tu Trono - url --> https://acordes.lacuerda.net/abel_zavala/dejando_tu_trono.shtml
+2025-11-22 01:41:05 INFO     song --> Deseado De Mi Alma - url --> https://acordes.lacuerda.net/abel_zavala/deseado_de_mi_alma.shtml
+2025-11-22 01:41:06 INFO     song --> Dispuesto Estoy - url --> https://acordes.lacuerda.net/abel_zavala/dispuesto_estoy.shtml
+2025-11-22 01:41:07 INFO     song --> El Es El Unico Dios - url --> https://acordes.lacuerda.net/abel_zavala/el_es_el_unico_dios.shtml
+2025-11-22 01:41:08 INFO     song --> El Gozo Del Senior - url --> https://acordes.lacuerda.net/abel_zavala/el_gozo_del_senior.shtml
+2025-11-22 01:41:09 INFO     File files\songs\abel_zavala\el_padre_que_siempre_sonie.txt already exists. Skipping download.
+2025-11-22 01:41:09 INFO     File files\songs\abel_zavala\enamorame.txt already exists. Skipping download.
+2025-11-22 01:41:09 INFO     song --> Es Hora De Volver - url --> https://acordes.lacuerda.net/abel_zavala/es_hora_de_volver.shtml
+2025-11-22 01:41:10 INFO     song --> Estar Contigo - url --> https://acordes.lacuerda.net/abel_zavala/estar_contigo.shtml
+2025-11-22 01:41:11 INFO     song --> Exaltad - url --> https://acordes.lacuerda.net/abel_zavala/exaltad.shtml
+2025-11-22 01:41:12 INFO     song --> Gloria En Las Alturas - url --> https://acordes.lacuerda.net/abel_zavala/gloria_en_las_alturas.shtml
+2025-11-22 01:41:13 INFO     song --> Guardame En Tu Presencia - url --> https://acordes.lacuerda.net/abel_zavala/guardame_en_tu_presencia.shtml
+2025-11-22 01:41:14 INFO     song --> Hasta El Desierto - url --> https://acordes.lacuerda.net/abel_zavala/hasta_el_desierto.shtml
+2025-11-22 01:41:15 INFO     song --> Hoy Te Rindo Mi Ser - url --> https://acordes.lacuerda.net/abel_zavala/hoy_te_rindo_mi_ser.shtml
+2025-11-22 01:41:16 INFO     File files\songs\abel_zavala\inmerecedor.txt already exists. Skipping download.
+2025-11-22 01:41:16 INFO     File files\songs\abel_zavala\jesus_mi_fiel_amigo.txt already exists. Skipping download.
+2025-11-22 01:41:16 INFO     song --> La Flor Mas Hermosa - url --> https://acordes.lacuerda.net/abel_zavala/la_flor_mas_hermosa.shtml
+2025-11-22 01:41:16 INFO     song --> La Ninia De Tus Ojos - url --> https://acordes.lacuerda.net/abel_zavala/la_ninia_de_tus_ojos.shtml
+2025-11-22 01:41:17 INFO     song --> La Roca - url --> https://acordes.lacuerda.net/abel_zavala/la_roca.shtml
+2025-11-22 01:41:18 INFO     song --> Listo Para Nuestro Encuentro - url --> https://acordes.lacuerda.net/abel_zavala/listo_para_nuestro_encuentro.shtml
+2025-11-22 01:41:19 INFO     File files\songs\abel_zavala\lo_unico_que_quiero.txt already exists. Skipping download.
+2025-11-22 01:41:19 INFO     song --> Mira Que Soy Tu Siervo - url --> https://acordes.lacuerda.net/abel_zavala/mira_que_soy_tu_siervo.shtml
+2025-11-22 01:41:20 INFO     song --> No Hace Falta - url --> https://acordes.lacuerda.net/abel_zavala/no_hace_falta.shtml
+2025-11-22 01:41:21 INFO     song --> No Temere - url --> https://acordes.lacuerda.net/abel_zavala/no_temere.shtml
+2025-11-22 01:41:22 INFO     song --> Nueva Historia - url --> https://acordes.lacuerda.net/abel_zavala/nueva_historia.shtml
+2025-11-22 01:41:23 INFO     File files\songs\abel_zavala\palabras_de_verdad.txt already exists. Skipping download.
+2025-11-22 01:41:23 INFO     song --> Quiero Agradecerte - url --> https://acordes.lacuerda.net/abel_zavala/quiero_agradecerte.shtml
+2025-11-22 01:41:24 INFO     File files\songs\abel_zavala\quiero_decirle_al_mundo.txt already exists. Skipping download.
+2025-11-22 01:41:24 INFO     song --> Quiero Estar Presente - url --> https://acordes.lacuerda.net/abel_zavala/quiero_estar_presente.shtml
+2025-11-22 01:41:25 INFO     song --> Se Oye Una Nueva Cancion - url --> https://acordes.lacuerda.net/abel_zavala/se_oye_una_nueva_cancion.shtml
+2025-11-22 01:41:26 INFO     song --> Serviremos Al Senior - url --> https://acordes.lacuerda.net/abel_zavala/serviremos_al_senior.shtml
+2025-11-22 01:41:27 INFO     song --> Te Llamas Amor - url --> https://acordes.lacuerda.net/abel_zavala/te_llamas_amor.shtml
+2025-11-22 01:41:28 INFO     File files\songs\abel_zavala\te_pertenezco.txt already exists. Skipping download.
+2025-11-22 01:41:28 INFO     song --> Tomame De Tu Mano - url --> https://acordes.lacuerda.net/abel_zavala/tomame_de_tu_mano.shtml
+2025-11-22 01:41:29 INFO     song --> Tomame En Tus Brazos - url --> https://acordes.lacuerda.net/abel_zavala/tomame_en_tus_brazos.shtml
+2025-11-22 01:41:30 INFO     song --> Unanimes - url --> https://acordes.lacuerda.net/abel_zavala/unanimes.shtml
+2025-11-22 01:41:31 INFO     song --> Ven A Mi Casa - url --> https://acordes.lacuerda.net/abel_zavala/ven_a_mi_casa.shtml
+2025-11-22 01:41:32 INFO     song --> Veo Llover - url --> https://acordes.lacuerda.net/abel_zavala/veo_llover.shtml
+2025-11-22 01:41:32 INFO     song --> Vivire - url --> https://acordes.lacuerda.net/abel_zavala/vivire.shtml
+2025-11-22 01:41:33 INFO     song --> Yo Quiero Mas De Ti - url --> https://acordes.lacuerda.net/abel_zavala/yo_quiero_mas_de_ti.shtml
+2025-11-22 01:41:34 INFO     Total duration: 0:02:42.285196

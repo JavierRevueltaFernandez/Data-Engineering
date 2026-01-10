@@ -299,7 +299,7 @@ A dimensional model separates descriptive attributes (dimensions) from numerical
 
 This design follows the principles of a star schema, where the fact table is the central structure and dimensions provide contextual information through well-defined keys.
 
-![Star schema](docs\star-schema-diagram.png)
+![Star schema](docs/star-schema-diagram.png)
 
 <br>
 
@@ -418,15 +418,15 @@ Looker Studio was selected because it integrates natively with BigQuery and allo
 The dashboard is built on top of the enriched analytical view and includes several complementary visualizations designed to explore the data from different perspectives. Screenshots of the dashboard and each chart are included below to document the final result.
 
 ### Economic Indicators Dashboard - 1st Part
-![Economic Indicators Dashboard](docs\economic-indicators-dashboard-1.png)
+![Economic Indicators Dashboard](docs/economic-indicators-dashboard-1.png)
 ### Economic Indicators Dashboard - 2nd Part
-![Economic Indicators Dashboard](docs\economic-indicators-dashboard-2.png)
+![Economic Indicators Dashboard](docs/economic-indicators-dashboard-2.png)
 
 <br><br>
 
 ### **1. Global GDP per capita trend over time**
 
-![Global GDP per capita graph](docs\Global-GDP-per-capita-graph.png)
+![Global GDP per capita graph](docs/Global-GDP-per-capita-graph.png)
 
 This chart shows the evolution of average GDP per capita over time across all countries. The metric is aggregated as a yearly average, allowing the identification of long-term growth patterns and global economic trends.
 
@@ -438,7 +438,7 @@ Although this visualization represents a global average and therefore smooths ou
 
 ### **2. Global unemployment rate trend over time**
 
-![Global unemployment rate](docs\Global-unemployment-rate.png)
+![Global unemployment rate](docs/Global-unemployment-rate.png)
 
 This chart displays the average unemployment rate per year across countries, offering a complementary perspective focused on labor market conditions rather than economic output.
 
@@ -450,7 +450,7 @@ When interpreted together with the GDP per capita trend, this visualization high
 
 ### **3. Comparison of indicators over time (GDP vs unemployment)**
 
-![GDP vs UEM](docs\GDP-vs-UEM.png)
+![GDP vs UEM](docs/GDP-vs-UEM.png)
 
 This chart allows for a comparison of the evolution of both indicators over time within the same analytical framework. By using the same time axis, it facilitates the observation of how economic growth and labor market conditions evolve over time, although not necessarily in sync.
 
@@ -462,7 +462,7 @@ This chart illustrates the value of integrating multiple indicators within the s
 
 ### **4. GDP per capita by income group**
 
-![GDP per capita by income group](docs\GDP-per-capita-by-income-group.png)
+![GDP per capita by income group](docs/GDP-per-capita-by-income-group.png)
 
 This chart breaks down GDP per capita by income groups as defined by the World Bank. Comparing these groups reveals clear structural differences in average economic output and well-being across countries.
 
@@ -474,7 +474,7 @@ The visualization demonstrates how including descriptive attributes, such as inc
 
 ### **5. Unemployment rate by income group**
 
-![Unemployment rate by income group](docs\Unemployment-rate-by-income-group.png)
+![Unemployment rate by income group](docs/Unemployment-rate-by-income-group.png)
 
 This chart shows the evolution of the unemployment rate broken down by income group. Unlike GDP per capita, unemployment does not follow a strictly increasing or decreasing pattern, but rather exhibits variations that reflect the specific economic and structural dynamics of each group of countries.
 
@@ -528,11 +528,11 @@ This configuration-based orchestration allows the pipeline to be executed in dif
 <br>
 
 ### Pipeline execution flow - 1st Part
-![Pipeline execution flow diagram](docs\flow-diagram1.png)
+![Pipeline execution flow diagram](docs/flow-diagram1.png)
 ### Pipeline execution flow - 2nd Part
-![Pipeline execution flow diagram](docs\flow-diagram2.png)
+![Pipeline execution flow diagram](docs/flow-diagram2.png)
 ### Pipeline execution flow - 3rd Part
-![Pipeline execution flow diagram](docs\flow-diagram3.png)
+![Pipeline execution flow diagram](docs/flow-diagram3.png)
 
 <br>
 

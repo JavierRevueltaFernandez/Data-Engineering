@@ -1,0 +1,7 @@
+quarter,file,trips_count,mean_seconds,duration_col,note
+2018_Q4,Divvy_Trips_2018_Q4.csv,642686,486.11057183997747,tripduration,
+2019_Q1,Divvy_Trips_2019_Q1.csv,365069,473.22129360093095,tripduration,
+2019_Q2,Divvy_Trips_2019_Q2.csv,1108163,521.0398307684625,01 - Rental Details Duration In Seconds Uncapped,
+2019_Q3,Divvy_Trips_2019_Q3.csv,1640718,537.5085109247083,tripduration,
+2019_Q4,Divvy_Trips_2019_Q4.csv,704054,491.12461632322066,tripduration,
+2020_Q1,Divvy_Trips_2020_Q1.csv,426887,1327.56429336477,computed_from_timestamps,
